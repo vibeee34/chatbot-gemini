@@ -1,0 +1,9 @@
+Flask
+flask-cors
+PyPDF2
+langchain
+langchain-community
+sentence-transformers
+psycopg2-binary
+python-dotenv
+google-generativeai
