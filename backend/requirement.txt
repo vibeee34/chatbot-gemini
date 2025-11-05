@@ -1,9 +1,12 @@
-Flask
+flask
 flask-cors
-PyPDF2
 langchain
 langchain-community
-sentence-transformers
+pgvector
 psycopg2-binary
-python-dotenv
+gunicorn
+requests
 google-generativeai
+PyPDF2
+sentence-transformers
+python-dotenv
